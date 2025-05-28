@@ -2,8 +2,6 @@
 
 Bu proje, Flutter ile geliştirilmiş bir mobil uygulama aracılığıyla Bluetooth (HC-05/HC-06 gibi Klasik Bluetooth modülleri) üzerinden bir oyuncak arabanın veya robotun kontrol edilmesini sağlar. Kullanıcı dostu bir arayüz üzerinden araca ileri, geri, sağa, sola dönme ve durma gibi komutlar gönderilebilir.
 
-![Uygulama Ekran Görüntüsü](placeholder_screenshot.png)
-*Lütfen buraya uygulamanızın bir ekran görüntüsünü ekleyin. `placeholder_screenshot.png` adında bir dosya oluşturup reponuza yükleyin veya doğrudan bir URL kullanın.*
 
 ## 🚗 Özellikler
 
